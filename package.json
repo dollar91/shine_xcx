@@ -1,0 +1,11 @@
+{
+  "name": "shine_xcx",
+  "version": "1.0.0",
+  "description": "hi 宝贝的小程序项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
